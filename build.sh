@@ -1,10 +1,6 @@
 #!/bin/bash
-# Exit on any error
 set -e
 
-echo "=== PhotoSorter Build Script ==="
-
-# Set directories
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BUILD_DIR="${SCRIPT_DIR}/build"
 APP_DIR="${BUILD_DIR}/PhotoSorter.app"
