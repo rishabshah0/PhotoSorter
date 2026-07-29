@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Build outputs
+build/
+
+# Python caches (if any)
+__pycache__/
+*.pyc
+
+# Swift Package Manager and Xcode temp files
+.build/
+.swiftpm/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
