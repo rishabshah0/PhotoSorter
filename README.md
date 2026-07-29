@@ -36,9 +36,3 @@
    ./build.sh
    ```
 3. Open **PhotoSorter** from your Mac's `/Applications` folder (or run `./run.sh`).
-
----
-
-## License
-
-MIT License. Free and open source.
