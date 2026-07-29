@@ -39,4 +39,4 @@ echo "6. Invalidating macOS Launch Services / Icon Cache..."
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f /Applications/PhotoSorter.app
 touch /Applications/PhotoSorter.app
 
-echo "=== Build & Installation Successful: /Applications/PhotoSorter.app ==="
+echo "Build & Installation Successful: /Applications/PhotoSorter.app"
